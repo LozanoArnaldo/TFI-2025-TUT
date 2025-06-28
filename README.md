@@ -8,4 +8,4 @@ Programacion
 ## Programa Utilizado
 PseInt
 ## Descripción
-Trabajo Final Integrador de la materia Programación (UTN - 2025). Incluye 10 ejercicios desarrollados en PSeInt que abordan estructuras condicionales, bucles, manejo de cadenas, matrices y operaciones matemáticas.
+Trabajo Final Integrador de Programacion. Son 10 ejercicios desarrollados en psudocodigo en PSeInt que abordan todos los temas vistos en clase.
